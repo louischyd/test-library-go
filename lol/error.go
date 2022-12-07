@@ -1,4 +1,4 @@
-package louis2
+package lol
 
 import "errors"
 
