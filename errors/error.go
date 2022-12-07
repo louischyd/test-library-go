@@ -1,4 +1,4 @@
-package errors
+package louis2
 
 import "errors"
 
